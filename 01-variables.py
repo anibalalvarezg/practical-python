@@ -69,3 +69,6 @@ con = "hi " + "bye"
 # Replace
 name = 'Anival'
 print(name.replace('v', 'b'))
+
+# Upper str 
+print('anibal'.upper())
